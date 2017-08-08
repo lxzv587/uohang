@@ -1,0 +1,239 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+.lxz_wrap{
+    width:100%;
+}
+.div{
+    width:1004px;
+    margin: 0 auto;
+}
+.clear{
+    clear: both;
+}
+.header{
+    height: 102px;
+}
+.header img{
+    float:left;
+}
+.header input {
+    width: 249px;
+    height: 48px;
+    border: 1px solid #CACACA;
+    float: right;
+    font-size: 10px;
+    margin-top: 52px;
+    text-indent: 5px;
+    color: #999999;
+}
+.nav{
+    height: 47px;
+    border-bottom: 2px solid #E91C24;
+    background: #124F9E;
+}
+.banner{
+    height: 602px;
+}
+.banner img{
+    width: 100%;
+    height: 602px;
+    background-size: cover;
+}
+.img,.span{
+    float: left;
+}
+.list{
+    padding-top: 113px;
+}
+.span{
+    font-size: 30.64px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    font-weight: bold;
+    text-align: center;
+}
+.h2{
+    font-size: 20.743px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    line-height: 1.865;
+    font-weight: normal;
+    padding-bottom: 43px;
+    border-bottom: 1px solid #D2D2D2;
+    padding-top: 20px;
+}
+.h2 b{
+    color:#96291B;
+}
+.h2 s{
+    text-decoration: none;
+    font-size: 25px;
+}
+.h2 span{
+    width: 40px;
+    display: inline-block;
+}
+.p{
+    padding-top: 56px;
+}
+.h3{
+    font-size: 19px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    line-height: 1.999;
+    border: none;
+}
+.icon img{
+    margin-right: 28px;
+}
+.icon img:nth-child(1){
+    margin-left: 105px;
+}
+.pp{
+    padding-top: 56px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    text-align: left;
+}
+.pp span{
+    font-size: 25px;
+}
+.pp span b{
+    font-weight: bold;
+    font-size: 30px;
+    color: #96291B;
+}
+.h4 {
+    height: 382px;
+    margin-top: 41px;
+    background-image: url("../img/list4.jpg");
+    background-size: 100%;
+}
+.h4 p{
+    margin-left: 62px;
+    padding-top: 42px;
+    font-size: 30.011px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    line-height: 1.599;
+    text-align: left;
+    font-weight: normal;
+}
+.h4 .b{
+    color:#96291B;
+    font-size: 34px;
+}
+.h4 p:nth-child(2){
+    padding-top: 32px;
+}
+.h5{
+    margin-top: 25px;
+    font-size: 18.698px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    line-height: 1.867;
+    padding-bottom: 100px;
+    border-bottom: 1px solid #D2D2D2;
+}
+.show{
+    margin-top: 20px;
+    border-bottom: 1px solid #D2D2D2;
+    margin-bottom: 55px;
+    height: 586px ;
+}
+.rease{
+    background-image: url("../img/rease.jpg");
+    background-size: cover;
+    width: 25%;
+    height: 293px;
+    position:relative;
+    float: left;
+}
+.rease:nth-child(2){
+    background-image: url("../img/rease2.jpg");
+}
+.rease:nth-child(3){
+    background-image: url("../img/rease3.jpg");
+}
+.rease:nth-child(4){
+    background-image: url("../img/rease4.jpg");
+}
+.rease:nth-child(5){
+    background-image: url("../img/rease5.jpg");
+}
+.rease:nth-child(6){
+    background-image: url("../img/rease6.jpg");
+}
+.rease:nth-child(7){
+    background-image: url("../img/rease7.jpg");
+}
+.rease:nth-child(8){
+    background-image: url("../img/rease8.jpg");
+}
+.rease p{
+    width: 100%;
+    height: 61px;
+    background: rgba(249,245,238,.6);
+    position: absolute;
+    bottom: 0;
+    font-size: 25.787px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    line-height: 61px;
+    text-align: center;
+}
+.rease p b:nth-child(1){
+    font-size:18px ;
+}
+.rease p b:nth-child(2){
+    color: #96291B;
+}
+.rease p b:nth-child(3){
+    font-size: 22px;
+    font-weight: normal;
+}
+.footer{
+    height: 451px;
+    background-image: url("../img/footer.jpg");
+    background-size: cover;
+    margin-top: 24px;
+    position: relative;
+    margin-bottom: 295px;
+}
+.liaojie{
+    width: 335px;
+    /*height: 78px;*/
+    border: 2px solid #F1C375;
+    border-radius: 5px;
+    float: right;
+    right: 62px;
+    top: 80px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: absolute;
+}
+.liaojie h3{
+    font-size: 18.035px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    font-weight: bold;
+    line-height: 1.284;
+}
+.liaojie p{
+    font-size: 15.006px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 51, 51, 51 );
+    line-height: 1.8;
+}
+.zhuce{
+    /*height: ;*/
+    background:#F1C375 ;
+    top: 180px;
+}
+.cuxiao{
+    top: 310px;
+}
